@@ -42,6 +42,7 @@ public class RepetitionOfNumbers {
 			}
 
 		}
+//		System.out.println(al.toString());
 	}
 
 }
