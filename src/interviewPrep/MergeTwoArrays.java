@@ -1,7 +1,5 @@
 package interviewPrep;
 
-import java.util.Arrays;
-
 public class MergeTwoArrays {
 
 	public static int[] mergeArrays(int[] arr1, int[] arr2) {
