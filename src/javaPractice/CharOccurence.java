@@ -15,7 +15,7 @@ public class CharOccurence {
 				count = 1;
 			}
 		}
-		op = op + s.charAt(s.length() - 1) + count; // this is the key
+		op = op + s.charAt(s.length() - 1) + count; // get the last char and outstanding count
 		return op + " : without using Map";
 	}
 
